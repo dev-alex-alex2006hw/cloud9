@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/.nvm/versions/node/v6.2.2/bin/node
 "use strict";
 
 require("amd-loader");
